@@ -1,0 +1,15 @@
+.circle{
+    width: 320px;
+    height: 300px;
+    background-color: lightseagreen;
+    border-radius: 250%;
+    float: left;
+}
+.text{
+    margin-left: 60px;
+    margin-top: 80px;
+}
+.navLink{
+    margin-left: 110px;
+    margin-top: 10px;
+}

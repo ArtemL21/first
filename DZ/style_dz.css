@@ -1,0 +1,7 @@
+.circle{
+    width: 70px;
+    height: 70px;
+    background-color: lightseagreen;
+    border-radius: 100%;
+    float: left;
+}
